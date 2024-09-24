@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, world wide web 👋 Eiffel here.
+- 📷 Currently working on an AI Image Recognition team project
+- 🤝 Looking to collaborate on functional generative AI projects!
+- 📲 Reach me: [LinkedIn](https://www.linkedin.com/in/eiffelv)
 
 <!--
 **eiffelv/eiffelv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
