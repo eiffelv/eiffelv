@@ -1,5 +1,5 @@
 ## Hello, world wide web 👋 Eiffel here.
-- 📷 Currently working on an AI Chatbot team project with Flask and React
+- 📷 Currently working on making Web Apps with Next.js.
 - 🤝 Looking to collaborate on functional generative AI projects!
 - 📲 Reach me: [LinkedIn](https://www.linkedin.com/in/eiffelv)
 
